@@ -1,0 +1,1883 @@
+,City,Style,Name
+0,amsterdam,afghani,6
+1,amsterdam,african,47
+2,amsterdam,american,272
+3,amsterdam,arabic,10
+4,amsterdam,argentinean,129
+5,amsterdam,asian,691
+6,amsterdam,australian,10
+7,amsterdam,austrian,2
+8,amsterdam,balti,10
+9,amsterdam,bar,998
+10,amsterdam,barbecue,151
+11,amsterdam,belgian,20
+12,amsterdam,brazilian,19
+13,amsterdam,brew pub,8
+14,amsterdam,british,32
+15,amsterdam,cafe,614
+16,amsterdam,cajun & creole,4
+17,amsterdam,caribbean,21
+18,amsterdam,central american,14
+19,amsterdam,central asian,2
+20,amsterdam,central european,80
+21,amsterdam,chinese,188
+22,amsterdam,colombian,4
+23,amsterdam,contemporary,80
+24,amsterdam,cuban,2
+25,amsterdam,danish,1
+26,amsterdam,delicatessen,53
+27,amsterdam,diner,49
+28,amsterdam,dutch,1538
+29,amsterdam,eastern european,4
+30,amsterdam,ecuadorean,2
+31,amsterdam,egyptian,4
+32,amsterdam,ethiopian,27
+33,amsterdam,european,2669
+34,amsterdam,fast food,225
+35,amsterdam,french,398
+36,amsterdam,fusion,78
+37,amsterdam,gastropub,22
+38,amsterdam,georgian,2
+39,amsterdam,german,13
+40,amsterdam,gluten free options,212
+41,amsterdam,greek,56
+42,amsterdam,grill,137
+43,amsterdam,halal,50
+44,amsterdam,hawaiian,5
+45,amsterdam,healthy,135
+46,amsterdam,indian,131
+47,amsterdam,indonesian,135
+48,amsterdam,international,600
+49,amsterdam,irish,14
+50,amsterdam,israeli,12
+51,amsterdam,italian,719
+52,amsterdam,jamaican,5
+53,amsterdam,japanese,225
+54,amsterdam,korean,16
+55,amsterdam,kosher,8
+56,amsterdam,latin,58
+57,amsterdam,lebanese,32
+58,amsterdam,malaysian,4
+59,amsterdam,mediterranean,658
+60,amsterdam,mexican,80
+61,amsterdam,middle eastern,141
+62,amsterdam,minority chinese,2
+63,amsterdam,moroccan,36
+64,amsterdam,nepali,20
+65,amsterdam,new zealand,8
+66,amsterdam,norwegian,2
+67,amsterdam,pakistani,14
+68,amsterdam,persian,10
+69,amsterdam,peruvian,8
+70,amsterdam,pizza,370
+71,amsterdam,portuguese,16
+72,amsterdam,pub,430
+73,amsterdam,romanian,2
+74,amsterdam,russian,2
+75,amsterdam,scandinavian,6
+76,amsterdam,seafood,238
+77,amsterdam,singaporean,4
+78,amsterdam,soups,71
+79,amsterdam,south american,83
+80,amsterdam,southwestern,10
+81,amsterdam,spanish,141
+82,amsterdam,steakhouse,231
+83,amsterdam,street food,27
+84,amsterdam,sushi,169
+85,amsterdam,swedish,6
+86,amsterdam,swiss,12
+87,amsterdam,taiwanese,2
+88,amsterdam,thai,133
+89,amsterdam,tibetan,12
+90,amsterdam,tunisian,2
+91,amsterdam,turkish,114
+92,amsterdam,vegan options,468
+93,amsterdam,vegetarian friendly,1808
+94,amsterdam,vietnamese,43
+95,amsterdam,wine bar,40
+96,barcelona,african,15
+97,barcelona,albanian,1
+98,barcelona,american,321
+99,barcelona,arabic,8
+100,barcelona,argentinean,153
+101,barcelona,asian,692
+102,barcelona,australian,4
+103,barcelona,austrian,3
+104,barcelona,bar,1011
+105,barcelona,barbecue,173
+106,barcelona,belgian,12
+107,barcelona,brazilian,38
+108,barcelona,brew pub,72
+109,barcelona,british,18
+110,barcelona,cafe,598
+111,barcelona,cajun & creole,2
+112,barcelona,cambodian,4
+113,barcelona,caribbean,36
+114,barcelona,central american,58
+115,barcelona,central asian,4
+116,barcelona,central european,19
+117,barcelona,chilean,16
+118,barcelona,chinese,235
+119,barcelona,colombian,24
+120,barcelona,contemporary,179
+121,barcelona,croatian,2
+122,barcelona,cuban,10
+123,barcelona,delicatessen,141
+124,barcelona,diner,39
+125,barcelona,dutch,4
+126,barcelona,eastern european,10
+127,barcelona,egyptian,2
+128,barcelona,ethiopian,4
+129,barcelona,european,3259
+130,barcelona,fast food,499
+131,barcelona,filipino,13
+132,barcelona,french,118
+133,barcelona,fusion,337
+134,barcelona,gastropub,83
+135,barcelona,georgian,1
+136,barcelona,german,28
+137,barcelona,gluten free options,318
+138,barcelona,greek,28
+139,barcelona,grill,81
+140,barcelona,halal,40
+141,barcelona,hawaiian,8
+142,barcelona,healthy,287
+143,barcelona,hungarian,4
+144,barcelona,indian,133
+145,barcelona,indonesian,12
+146,barcelona,international,436
+147,barcelona,irish,22
+148,barcelona,israeli,10
+149,barcelona,italian,984
+150,barcelona,jamaican,2
+151,barcelona,japanese,592
+152,barcelona,korean,35
+153,barcelona,latin,255
+154,barcelona,lebanese,90
+155,barcelona,malaysian,4
+156,barcelona,mediterranean,5493
+157,barcelona,mexican,224
+158,barcelona,middle eastern,166
+159,barcelona,minority chinese,6
+160,barcelona,moroccan,30
+161,barcelona,nepali,14
+162,barcelona,pakistani,32
+163,barcelona,persian,4
+164,barcelona,peruvian,88
+165,barcelona,pizza,653
+166,barcelona,polish,3
+167,barcelona,portuguese,10
+168,barcelona,pub,361
+169,barcelona,romanian,6
+170,barcelona,russian,9
+171,barcelona,scandinavian,2
+172,barcelona,seafood,519
+173,barcelona,singaporean,2
+174,barcelona,soups,61
+175,barcelona,south american,177
+176,barcelona,southwestern,2
+177,barcelona,spanish,5184
+178,barcelona,steakhouse,156
+179,barcelona,street food,68
+180,barcelona,sushi,414
+181,barcelona,swedish,2
+182,barcelona,swiss,4
+183,barcelona,taiwanese,7
+184,barcelona,thai,74
+185,barcelona,tibetan,4
+186,barcelona,turkish,65
+187,barcelona,uzbek,2
+188,barcelona,vegan options,511
+189,barcelona,vegetarian friendly,2546
+190,barcelona,venezuelan,37
+191,barcelona,vietnamese,36
+192,barcelona,wine bar,180
+193,barcelona,yunnan,4
+194,berlin,afghani,2
+195,berlin,african,35
+196,berlin,american,288
+197,berlin,arabic,31
+198,berlin,argentinean,50
+199,berlin,armenian,5
+200,berlin,asian,974
+201,berlin,australian,8
+202,berlin,austrian,93
+203,berlin,bar,502
+204,berlin,barbecue,160
+205,berlin,belgian,2
+206,berlin,brazilian,7
+207,berlin,brew pub,11
+208,berlin,british,10
+209,berlin,cafe,518
+210,berlin,cajun & creole,6
+211,berlin,cambodian,5
+212,berlin,canadian,2
+213,berlin,caribbean,17
+214,berlin,caucasian,3
+215,berlin,central american,45
+216,berlin,central european,782
+217,berlin,chilean,3
+218,berlin,chinese,206
+219,berlin,contemporary,92
+220,berlin,croatian,27
+221,berlin,cuban,7
+222,berlin,delicatessen,82
+223,berlin,diner,80
+224,berlin,dutch,2
+225,berlin,eastern european,48
+226,berlin,egyptian,8
+227,berlin,ethiopian,12
+228,berlin,european,2432
+229,berlin,fast food,409
+230,berlin,filipino,6
+231,berlin,french,236
+232,berlin,fusion,120
+233,berlin,gastropub,39
+234,berlin,georgian,6
+235,berlin,german,1404
+236,berlin,gluten free options,106
+237,berlin,greek,158
+238,berlin,grill,131
+239,berlin,guatemalan,1
+240,berlin,halal,36
+241,berlin,hawaiian,3
+242,berlin,healthy,124
+243,berlin,hungarian,3
+244,berlin,indian,273
+245,berlin,indonesian,11
+246,berlin,international,428
+247,berlin,irish,18
+248,berlin,israeli,42
+249,berlin,italian,1409
+250,berlin,jamaican,6
+251,berlin,japanese,306
+252,berlin,korean,91
+253,berlin,kosher,9
+254,berlin,latin,79
+255,berlin,latvian,2
+256,berlin,lebanese,95
+257,berlin,malaysian,2
+258,berlin,mediterranean,1328
+259,berlin,mexican,157
+260,berlin,middle eastern,308
+261,berlin,mongolian,5
+262,berlin,moroccan,13
+263,berlin,nepali,11
+264,berlin,new zealand,2
+265,berlin,norwegian,2
+266,berlin,pakistani,14
+267,berlin,persian,30
+268,berlin,peruvian,24
+269,berlin,pizza,592
+270,berlin,polish,11
+271,berlin,portuguese,25
+272,berlin,pub,301
+273,berlin,russian,34
+274,berlin,salvadoran,2
+275,berlin,scandinavian,5
+276,berlin,seafood,228
+277,berlin,singaporean,9
+278,berlin,soups,100
+279,berlin,south american,75
+280,berlin,southwestern,4
+281,berlin,spanish,210
+282,berlin,sri lankan,9
+283,berlin,steakhouse,157
+284,berlin,street food,52
+285,berlin,sushi,330
+286,berlin,swedish,4
+287,berlin,swiss,22
+288,berlin,taiwanese,8
+289,berlin,thai,228
+290,berlin,tibetan,14
+291,berlin,turkish,240
+292,berlin,ukrainian,6
+293,berlin,vegan options,597
+294,berlin,vegetarian friendly,2448
+295,berlin,vietnamese,446
+296,berlin,wine bar,106
+297,bratislava,american,48
+298,bratislava,arabic,4
+299,bratislava,argentinean,2
+300,bratislava,asian,68
+301,bratislava,austrian,4
+302,bratislava,bar,201
+303,bratislava,barbecue,22
+304,bratislava,belgian,2
+305,bratislava,brew pub,6
+306,bratislava,british,6
+307,bratislava,cafe,84
+308,bratislava,caucasian,2
+309,bratislava,central european,296
+310,bratislava,chinese,23
+311,bratislava,contemporary,8
+312,bratislava,croatian,2
+313,bratislava,cuban,2
+314,bratislava,czech,50
+315,bratislava,delicatessen,6
+316,bratislava,diner,13
+317,bratislava,eastern european,118
+318,bratislava,egyptian,2
+319,bratislava,european,545
+320,bratislava,fast food,49
+321,bratislava,french,20
+322,bratislava,fusion,14
+323,bratislava,gastropub,12
+324,bratislava,georgian,2
+325,bratislava,german,1
+326,bratislava,gluten free options,8
+327,bratislava,greek,6
+328,bratislava,grill,24
+329,bratislava,healthy,40
+330,bratislava,hungarian,4
+331,bratislava,indian,18
+332,bratislava,indonesian,4
+333,bratislava,international,102
+334,bratislava,irish,4
+335,bratislava,italian,149
+336,bratislava,japanese,48
+337,bratislava,korean,2
+338,bratislava,latin,6
+339,bratislava,mediterranean,68
+340,bratislava,mexican,13
+341,bratislava,middle eastern,8
+342,bratislava,minority chinese,2
+343,bratislava,pizza,111
+344,bratislava,polish,2
+345,bratislava,portuguese,2
+346,bratislava,pub,188
+347,bratislava,russian,2
+348,bratislava,scottish,2
+349,bratislava,seafood,29
+350,bratislava,slovenian,10
+351,bratislava,soups,32
+352,bratislava,south american,2
+353,bratislava,spanish,8
+354,bratislava,steakhouse,23
+355,bratislava,street food,10
+356,bratislava,sushi,42
+357,bratislava,thai,22
+358,bratislava,turkish,6
+359,bratislava,vegan options,14
+360,bratislava,vegetarian friendly,114
+361,bratislava,vietnamese,19
+362,bratislava,wine bar,45
+363,brussels,afghani,1
+364,brussels,african,37
+365,brussels,american,109
+366,brussels,arabic,2
+367,brussels,argentinean,16
+368,brussels,armenian,2
+369,brussels,asian,455
+370,brussels,balti,2
+371,brussels,bangladeshi,4
+372,brussels,bar,374
+373,brussels,barbecue,53
+374,brussels,belgian,1217
+375,brussels,brazilian,14
+376,brussels,brew pub,59
+377,brussels,british,18
+378,brussels,cafe,139
+379,brussels,cajun & creole,4
+380,brussels,cambodian,6
+381,brussels,caribbean,6
+382,brussels,central american,8
+383,brussels,central european,20
+384,brussels,chilean,4
+385,brussels,chinese,148
+386,brussels,contemporary,44
+387,brussels,croatian,4
+388,brussels,cuban,4
+389,brussels,delicatessen,35
+390,brussels,diner,10
+391,brussels,dutch,2
+392,brussels,eastern european,8
+393,brussels,egyptian,2
+394,brussels,ethiopian,6
+395,brussels,european,1977
+396,brussels,fast food,173
+397,brussels,filipino,2
+398,brussels,french,862
+399,brussels,fusion,68
+400,brussels,gastropub,70
+401,brussels,german,2
+402,brussels,gluten free options,50
+403,brussels,greek,119
+404,brussels,grill,72
+405,brussels,halal,40
+406,brussels,healthy,76
+407,brussels,indian,98
+408,brussels,indonesian,4
+409,brussels,international,120
+410,brussels,irish,12
+411,brussels,israeli,2
+412,brussels,italian,822
+413,brussels,japanese,152
+414,brussels,korean,10
+415,brussels,latin,30
+416,brussels,lebanese,80
+417,brussels,mediterranean,758
+418,brussels,mexican,29
+419,brussels,middle eastern,146
+420,brussels,moroccan,73
+421,brussels,nepali,2
+422,brussels,pakistani,26
+423,brussels,persian,10
+424,brussels,peruvian,11
+425,brussels,pizza,315
+426,brussels,polish,3
+427,brussels,portuguese,46
+428,brussels,pub,200
+429,brussels,romanian,3
+430,brussels,scandinavian,2
+431,brussels,seafood,138
+432,brussels,soups,90
+433,brussels,south american,29
+434,brussels,southwestern,1
+435,brussels,spanish,85
+436,brussels,steakhouse,57
+437,brussels,street food,32
+438,brussels,sushi,89
+439,brussels,swiss,4
+440,brussels,taiwanese,4
+441,brussels,thai,178
+442,brussels,tibetan,4
+443,brussels,tunisian,10
+444,brussels,turkish,45
+445,brussels,vegan options,202
+446,brussels,vegetarian friendly,1053
+447,brussels,vietnamese,146
+448,brussels,wine bar,72
+449,budapest,afghani,2
+450,budapest,african,2
+451,budapest,american,239
+452,budapest,arabic,4
+453,budapest,argentinean,4
+454,budapest,asian,273
+455,budapest,austrian,10
+456,budapest,bangladeshi,2
+457,budapest,bar,499
+458,budapest,barbecue,50
+459,budapest,belgian,10
+460,budapest,brazilian,2
+461,budapest,brew pub,15
+462,budapest,british,17
+463,budapest,cafe,278
+464,budapest,cajun & creole,2
+465,budapest,caribbean,7
+466,budapest,central american,14
+467,budapest,central european,981
+468,budapest,chinese,72
+469,budapest,colombian,2
+470,budapest,contemporary,28
+471,budapest,cuban,5
+472,budapest,czech,8
+473,budapest,delicatessen,17
+474,budapest,diner,26
+475,budapest,eastern european,614
+476,budapest,egyptian,2
+477,budapest,ethiopian,2
+478,budapest,european,2235
+479,budapest,fast food,315
+480,budapest,french,63
+481,budapest,fusion,42
+482,budapest,gastropub,31
+483,budapest,georgian,2
+484,budapest,german,12
+485,budapest,gluten free options,69
+486,budapest,greek,31
+487,budapest,grill,80
+488,budapest,halal,12
+489,budapest,healthy,101
+490,budapest,hungarian,1454
+491,budapest,indian,63
+492,budapest,international,469
+493,budapest,irish,7
+494,budapest,israeli,28
+495,budapest,italian,469
+496,budapest,jamaican,2
+497,budapest,japanese,88
+498,budapest,korean,13
+499,budapest,kosher,2
+500,budapest,latin,14
+501,budapest,latvian,2
+502,budapest,lebanese,12
+503,budapest,mediterranean,250
+504,budapest,mexican,66
+505,budapest,middle eastern,73
+506,budapest,moroccan,5
+507,budapest,native american,2
+508,budapest,nepali,18
+509,budapest,pakistani,4
+510,budapest,persian,5
+511,budapest,peruvian,4
+512,budapest,pizza,301
+513,budapest,portuguese,2
+514,budapest,pub,322
+515,budapest,russian,13
+516,budapest,scandinavian,2
+517,budapest,scottish,2
+518,budapest,seafood,63
+519,budapest,soups,116
+520,budapest,south american,14
+521,budapest,spanish,41
+522,budapest,steakhouse,39
+523,budapest,street food,85
+524,budapest,sushi,88
+525,budapest,swiss,2
+526,budapest,thai,85
+527,budapest,turkish,46
+528,budapest,vegan options,134
+529,budapest,vegetarian friendly,574
+530,budapest,vietnamese,54
+531,budapest,wine bar,79
+532,dublin,afghani,4
+533,dublin,african,6
+534,dublin,albanian,2
+535,dublin,american,188
+536,dublin,arabic,2
+537,dublin,argentinean,4
+538,dublin,asian,446
+539,dublin,australian,7
+540,dublin,balti,22
+541,dublin,bar,744
+542,dublin,barbecue,25
+543,dublin,brazilian,14
+544,dublin,brew pub,8
+545,dublin,british,103
+546,dublin,cafe,503
+547,dublin,cajun & creole,2
+548,dublin,canadian,2
+549,dublin,central american,12
+550,dublin,central european,10
+551,dublin,chinese,172
+552,dublin,contemporary,92
+553,dublin,croatian,2
+554,dublin,czech,4
+555,dublin,delicatessen,35
+556,dublin,diner,30
+557,dublin,eastern european,10
+558,dublin,egyptian,2
+559,dublin,european,1324
+560,dublin,fast food,287
+561,dublin,french,82
+562,dublin,fusion,54
+563,dublin,gastropub,66
+564,dublin,gluten free options,344
+565,dublin,greek,8
+566,dublin,grill,32
+567,dublin,halal,12
+568,dublin,hawaiian,2
+569,dublin,healthy,89
+570,dublin,hungarian,2
+571,dublin,indian,153
+572,dublin,indonesian,2
+573,dublin,international,149
+574,dublin,irish,1273
+575,dublin,israeli,2
+576,dublin,italian,354
+577,dublin,japanese,94
+578,dublin,korean,18
+579,dublin,latin,10
+580,dublin,lebanese,28
+581,dublin,malaysian,6
+582,dublin,mediterranean,182
+583,dublin,mexican,78
+584,dublin,middle eastern,62
+585,dublin,mongolian,2
+586,dublin,moroccan,6
+587,dublin,nepali,20
+588,dublin,pakistani,26
+589,dublin,persian,2
+590,dublin,pizza,293
+591,dublin,polish,2
+592,dublin,portuguese,12
+593,dublin,pub,631
+594,dublin,russian,2
+595,dublin,seafood,96
+596,dublin,soups,64
+597,dublin,south american,10
+598,dublin,southwestern,2
+599,dublin,spanish,43
+600,dublin,steakhouse,85
+601,dublin,street food,17
+602,dublin,sushi,91
+603,dublin,swedish,2
+604,dublin,thai,167
+605,dublin,tibetan,2
+606,dublin,turkish,10
+607,dublin,vegan options,206
+608,dublin,vegetarian friendly,988
+609,dublin,vietnamese,18
+610,dublin,wine bar,72
+611,hamburg,afghani,4
+612,hamburg,african,6
+613,hamburg,american,131
+614,hamburg,arabic,4
+615,hamburg,argentinean,9
+616,hamburg,asian,197
+617,hamburg,australian,2
+618,hamburg,austrian,12
+619,hamburg,bar,152
+620,hamburg,barbecue,70
+621,hamburg,brazilian,6
+622,hamburg,brew pub,4
+623,hamburg,british,6
+624,hamburg,cafe,121
+625,hamburg,cajun & creole,4
+626,hamburg,caribbean,4
+627,hamburg,central american,14
+628,hamburg,central european,298
+629,hamburg,chilean,1
+630,hamburg,chinese,77
+631,hamburg,colombian,2
+632,hamburg,contemporary,30
+633,hamburg,croatian,5
+634,hamburg,cuban,2
+635,hamburg,danish,2
+636,hamburg,delicatessen,31
+637,hamburg,diner,44
+638,hamburg,eastern european,2
+639,hamburg,ethiopian,2
+640,hamburg,european,818
+641,hamburg,fast food,77
+642,hamburg,french,64
+643,hamburg,fusion,25
+644,hamburg,gastropub,7
+645,hamburg,german,506
+646,hamburg,gluten free options,21
+647,hamburg,greek,93
+648,hamburg,grill,33
+649,hamburg,halal,12
+650,hamburg,healthy,22
+651,hamburg,indian,72
+652,hamburg,indonesian,2
+653,hamburg,international,160
+654,hamburg,irish,6
+655,hamburg,israeli,4
+656,hamburg,italian,452
+657,hamburg,jamaican,2
+658,hamburg,japanese,82
+659,hamburg,korean,8
+660,hamburg,kosher,2
+661,hamburg,latin,22
+662,hamburg,lebanese,24
+663,hamburg,mediterranean,467
+664,hamburg,mexican,34
+665,hamburg,middle eastern,85
+666,hamburg,mongolian,6
+667,hamburg,moroccan,6
+668,hamburg,nepali,2
+669,hamburg,pakistani,8
+670,hamburg,persian,11
+671,hamburg,peruvian,10
+672,hamburg,pizza,139
+673,hamburg,polish,2
+674,hamburg,portuguese,50
+675,hamburg,pub,63
+676,hamburg,russian,4
+677,hamburg,scandinavian,4
+678,hamburg,seafood,268
+679,hamburg,soups,28
+680,hamburg,south american,25
+681,hamburg,southwestern,2
+682,hamburg,spanish,87
+683,hamburg,sri lankan,2
+684,hamburg,steakhouse,98
+685,hamburg,street food,10
+686,hamburg,sushi,127
+687,hamburg,swedish,4
+688,hamburg,swiss,2
+689,hamburg,thai,51
+690,hamburg,tibetan,2
+691,hamburg,turkish,42
+692,hamburg,vegan options,97
+693,hamburg,vegetarian friendly,690
+694,hamburg,vietnamese,61
+695,hamburg,wine bar,35
+696,helsinki,african,6
+697,helsinki,american,94
+698,helsinki,arabic,1
+699,helsinki,asian,276
+700,helsinki,australian,8
+701,helsinki,bar,166
+702,helsinki,barbecue,31
+703,helsinki,belgian,4
+704,helsinki,brazilian,4
+705,helsinki,brew pub,10
+706,helsinki,british,4
+707,helsinki,cafe,142
+708,helsinki,cajun & creole,2
+709,helsinki,caucasian,4
+710,helsinki,central american,2
+711,helsinki,central european,22
+712,helsinki,chinese,99
+713,helsinki,contemporary,25
+714,helsinki,czech,2
+715,helsinki,delicatessen,10
+716,helsinki,diner,16
+717,helsinki,eastern european,16
+718,helsinki,egyptian,2
+719,helsinki,ethiopian,4
+720,helsinki,european,727
+721,helsinki,fast food,87
+722,helsinki,french,40
+723,helsinki,fusion,43
+724,helsinki,gastropub,6
+725,helsinki,georgian,4
+726,helsinki,german,6
+727,helsinki,gluten free options,175
+728,helsinki,greek,15
+729,helsinki,grill,19
+730,helsinki,halal,10
+731,helsinki,hawaiian,4
+732,helsinki,healthy,17
+733,helsinki,indian,33
+734,helsinki,international,85
+735,helsinki,irish,2
+736,helsinki,israeli,6
+737,helsinki,italian,162
+738,helsinki,japanese,123
+739,helsinki,korean,17
+740,helsinki,kosher,2
+741,helsinki,latin,20
+742,helsinki,lebanese,14
+743,helsinki,malaysian,4
+744,helsinki,mediterranean,138
+745,helsinki,mexican,41
+746,helsinki,middle eastern,65
+747,helsinki,moroccan,4
+748,helsinki,nepali,62
+749,helsinki,persian,2
+750,helsinki,peruvian,2
+751,helsinki,pizza,189
+752,helsinki,portuguese,1
+753,helsinki,pub,155
+754,helsinki,russian,12
+755,helsinki,scandinavian,386
+756,helsinki,seafood,22
+757,helsinki,singaporean,2
+758,helsinki,soups,38
+759,helsinki,south american,10
+760,helsinki,southwestern,10
+761,helsinki,spanish,42
+762,helsinki,sri lankan,2
+763,helsinki,steakhouse,30
+764,helsinki,street food,20
+765,helsinki,sushi,120
+766,helsinki,swedish,2
+767,helsinki,thai,67
+768,helsinki,turkish,35
+769,helsinki,vegan options,150
+770,helsinki,vegetarian friendly,549
+771,helsinki,vietnamese,39
+772,helsinki,wine bar,16
+773,lisbon,african,49
+774,lisbon,american,82
+775,lisbon,arabic,6
+776,lisbon,argentinean,17
+777,lisbon,asian,305
+778,lisbon,austrian,4
+779,lisbon,bangladeshi,3
+780,lisbon,bar,305
+781,lisbon,barbecue,107
+782,lisbon,belgian,6
+783,lisbon,brazilian,81
+784,lisbon,brew pub,20
+785,lisbon,british,3
+786,lisbon,cafe,202
+787,lisbon,caribbean,4
+788,lisbon,central american,8
+789,lisbon,central asian,2
+790,lisbon,central european,10
+791,lisbon,chilean,2
+792,lisbon,chinese,92
+793,lisbon,contemporary,156
+794,lisbon,cuban,4
+795,lisbon,delicatessen,24
+796,lisbon,diner,14
+797,lisbon,eastern european,6
+798,lisbon,european,3380
+799,lisbon,fast food,121
+800,lisbon,filipino,6
+801,lisbon,french,50
+802,lisbon,fusion,85
+803,lisbon,gastropub,10
+804,lisbon,german,14
+805,lisbon,gluten free options,95
+806,lisbon,greek,8
+807,lisbon,grill,83
+808,lisbon,halal,21
+809,lisbon,hawaiian,2
+810,lisbon,healthy,119
+811,lisbon,indian,208
+812,lisbon,international,207
+813,lisbon,irish,4
+814,lisbon,israeli,2
+815,lisbon,italian,319
+816,lisbon,japanese,197
+817,lisbon,latin,31
+818,lisbon,lebanese,7
+819,lisbon,malaysian,4
+820,lisbon,mediterranean,1835
+821,lisbon,mexican,24
+822,lisbon,middle eastern,21
+823,lisbon,moroccan,4
+824,lisbon,nepali,84
+825,lisbon,pakistani,5
+826,lisbon,persian,4
+827,lisbon,peruvian,20
+828,lisbon,pizza,206
+829,lisbon,portuguese,3282
+830,lisbon,pub,142
+831,lisbon,romanian,2
+832,lisbon,russian,4
+833,lisbon,seafood,423
+834,lisbon,soups,86
+835,lisbon,south american,49
+836,lisbon,spanish,106
+837,lisbon,steakhouse,99
+838,lisbon,street food,20
+839,lisbon,sushi,188
+840,lisbon,swiss,4
+841,lisbon,thai,24
+842,lisbon,tibetan,4
+843,lisbon,turkish,22
+844,lisbon,ukrainian,2
+845,lisbon,vegan options,188
+846,lisbon,vegetarian friendly,988
+847,lisbon,venezuelan,1
+848,lisbon,vietnamese,6
+849,lisbon,wine bar,133
+850,ljubljana,african,2
+851,ljubljana,albanian,1
+852,ljubljana,american,28
+853,ljubljana,arabic,2
+854,ljubljana,argentinean,2
+855,ljubljana,asian,60
+856,ljubljana,australian,2
+857,ljubljana,bar,94
+858,ljubljana,barbecue,57
+859,ljubljana,brazilian,4
+860,ljubljana,british,3
+861,ljubljana,cafe,79
+862,ljubljana,central american,2
+863,ljubljana,central european,151
+864,ljubljana,chinese,32
+865,ljubljana,contemporary,12
+866,ljubljana,croatian,2
+867,ljubljana,delicatessen,2
+868,ljubljana,diner,2
+869,ljubljana,eastern european,50
+870,ljubljana,egyptian,2
+871,ljubljana,european,423
+872,ljubljana,fast food,67
+873,ljubljana,french,3
+874,ljubljana,fusion,8
+875,ljubljana,gastropub,6
+876,ljubljana,gluten free options,4
+877,ljubljana,greek,2
+878,ljubljana,grill,17
+879,ljubljana,halal,2
+880,ljubljana,healthy,16
+881,ljubljana,indian,12
+882,ljubljana,international,36
+883,ljubljana,irish,3
+884,ljubljana,italian,109
+885,ljubljana,japanese,16
+886,ljubljana,korean,2
+887,ljubljana,latin,6
+888,ljubljana,lebanese,2
+889,ljubljana,mediterranean,148
+890,ljubljana,mexican,22
+891,ljubljana,middle eastern,10
+892,ljubljana,native american,2
+893,ljubljana,nepali,2
+894,ljubljana,persian,2
+895,ljubljana,pizza,112
+896,ljubljana,pub,56
+897,ljubljana,seafood,51
+898,ljubljana,slovenian,243
+899,ljubljana,soups,30
+900,ljubljana,south american,2
+901,ljubljana,spanish,5
+902,ljubljana,steakhouse,22
+903,ljubljana,street food,13
+904,ljubljana,sushi,12
+905,ljubljana,thai,16
+906,ljubljana,tunisian,2
+907,ljubljana,turkish,6
+908,ljubljana,vegan options,26
+909,ljubljana,vegetarian friendly,106
+910,ljubljana,vietnamese,2
+911,ljubljana,wine bar,21
+912,luxembourg,african,1
+913,luxembourg,american,33
+914,luxembourg,argentinean,4
+915,luxembourg,asian,153
+916,luxembourg,bangladeshi,2
+917,luxembourg,bar,116
+918,luxembourg,barbecue,2
+919,luxembourg,brazilian,6
+920,luxembourg,brew pub,6
+921,luxembourg,cafe,49
+922,luxembourg,caribbean,2
+923,luxembourg,central american,4
+924,luxembourg,central european,18
+925,luxembourg,chinese,67
+926,luxembourg,contemporary,4
+927,luxembourg,cuban,2
+928,luxembourg,delicatessen,9
+929,luxembourg,diner,2
+930,luxembourg,eastern european,2
+931,luxembourg,european,462
+932,luxembourg,fast food,31
+933,luxembourg,french,215
+934,luxembourg,fusion,13
+935,luxembourg,gastropub,9
+936,luxembourg,german,8
+937,luxembourg,gluten free options,30
+938,luxembourg,greek,10
+939,luxembourg,grill,11
+940,luxembourg,healthy,8
+941,luxembourg,indian,38
+942,luxembourg,international,53
+943,luxembourg,irish,1
+944,luxembourg,italian,200
+945,luxembourg,japanese,67
+946,luxembourg,korean,6
+947,luxembourg,latin,20
+948,luxembourg,lebanese,8
+949,luxembourg,mediterranean,181
+950,luxembourg,mexican,17
+951,luxembourg,middle eastern,12
+952,luxembourg,moroccan,3
+953,luxembourg,nepali,18
+954,luxembourg,persian,4
+955,luxembourg,peruvian,2
+956,luxembourg,pizza,94
+957,luxembourg,polish,2
+958,luxembourg,portuguese,26
+959,luxembourg,pub,72
+960,luxembourg,seafood,16
+961,luxembourg,soups,18
+962,luxembourg,south american,10
+963,luxembourg,spanish,22
+964,luxembourg,steakhouse,19
+965,luxembourg,sushi,67
+966,luxembourg,swedish,4
+967,luxembourg,swiss,2
+968,luxembourg,thai,25
+969,luxembourg,tibetan,8
+970,luxembourg,turkish,4
+971,luxembourg,vegan options,44
+972,luxembourg,vegetarian friendly,300
+973,luxembourg,vietnamese,7
+974,luxembourg,wine bar,17
+975,luxembourg,xinjiang,2
+976,lyon,african,8
+977,lyon,american,84
+978,lyon,argentinean,4
+979,lyon,armenian,4
+980,lyon,asian,140
+981,lyon,bar,133
+982,lyon,barbecue,23
+983,lyon,belgian,6
+984,lyon,brazilian,6
+985,lyon,brew pub,47
+986,lyon,british,10
+987,lyon,cafe,55
+988,lyon,cajun & creole,6
+989,lyon,cambodian,5
+990,lyon,canadian,2
+991,lyon,caribbean,2
+992,lyon,central american,6
+993,lyon,chinese,69
+994,lyon,contemporary,36
+995,lyon,cuban,2
+996,lyon,danish,2
+997,lyon,delicatessen,20
+998,lyon,diner,21
+999,lyon,eastern european,6
+1000,lyon,ethiopian,1
+1001,lyon,european,550
+1002,lyon,fast food,67
+1003,lyon,french,1265
+1004,lyon,fusion,24
+1005,lyon,gastropub,68
+1006,lyon,georgian,2
+1007,lyon,german,2
+1008,lyon,gluten free options,31
+1009,lyon,greek,4
+1010,lyon,grill,44
+1011,lyon,halal,4
+1012,lyon,healthy,31
+1013,lyon,indian,58
+1014,lyon,international,38
+1015,lyon,irish,10
+1016,lyon,italian,200
+1017,lyon,japanese,121
+1018,lyon,korean,10
+1019,lyon,latin,20
+1020,lyon,lebanese,20
+1021,lyon,mediterranean,106
+1022,lyon,mexican,19
+1023,lyon,middle eastern,44
+1024,lyon,moroccan,18
+1025,lyon,nepali,2
+1026,lyon,pakistani,26
+1027,lyon,persian,3
+1028,lyon,peruvian,2
+1029,lyon,pizza,128
+1030,lyon,portuguese,3
+1031,lyon,pub,92
+1032,lyon,russian,9
+1033,lyon,scandinavian,2
+1034,lyon,seafood,44
+1035,lyon,soups,12
+1036,lyon,south american,8
+1037,lyon,spanish,42
+1038,lyon,steakhouse,41
+1039,lyon,street food,16
+1040,lyon,sushi,75
+1041,lyon,taiwanese,2
+1042,lyon,thai,43
+1043,lyon,tibetan,2
+1044,lyon,tunisian,3
+1045,lyon,turkish,12
+1046,lyon,vegan options,70
+1047,lyon,vegetarian friendly,406
+1048,lyon,venezuelan,2
+1049,lyon,vietnamese,53
+1050,lyon,wine bar,85
+1051,lyon,yunnan,2
+1052,madrid,african,25
+1053,madrid,american,437
+1054,madrid,arabic,4
+1055,madrid,argentinean,129
+1056,madrid,armenian,2
+1057,madrid,asian,532
+1058,madrid,balti,2
+1059,madrid,bar,618
+1060,madrid,barbecue,138
+1061,madrid,belgian,6
+1062,madrid,brazilian,37
+1063,madrid,brew pub,44
+1064,madrid,british,8
+1065,madrid,cafe,379
+1066,madrid,cajun & creole,1
+1067,madrid,canadian,2
+1068,madrid,caribbean,38
+1069,madrid,central american,47
+1070,madrid,central asian,2
+1071,madrid,central european,8
+1072,madrid,chilean,5
+1073,madrid,chinese,253
+1074,madrid,colombian,13
+1075,madrid,contemporary,201
+1076,madrid,cuban,18
+1077,madrid,delicatessen,86
+1078,madrid,diner,54
+1079,madrid,eastern european,14
+1080,madrid,ecuadorean,7
+1081,madrid,egyptian,2
+1082,madrid,ethiopian,6
+1083,madrid,european,2016
+1084,madrid,fast food,328
+1085,madrid,filipino,6
+1086,madrid,french,80
+1087,madrid,fujian,2
+1088,madrid,fusion,334
+1089,madrid,gastropub,56
+1090,madrid,georgian,4
+1091,madrid,german,21
+1092,madrid,gluten free options,378
+1093,madrid,greek,37
+1094,madrid,grill,80
+1095,madrid,halal,26
+1096,madrid,hawaiian,4
+1097,madrid,healthy,213
+1098,madrid,indian,137
+1099,madrid,indonesian,8
+1100,madrid,international,517
+1101,madrid,irish,14
+1102,madrid,israeli,6
+1103,madrid,italian,623
+1104,madrid,japanese,411
+1105,madrid,korean,26
+1106,madrid,kosher,2
+1107,madrid,latin,225
+1108,madrid,lebanese,35
+1109,madrid,mediterranean,3685
+1110,madrid,mexican,220
+1111,madrid,middle eastern,72
+1112,madrid,minority chinese,3
+1113,madrid,moroccan,28
+1114,madrid,nepali,14
+1115,madrid,pakistani,12
+1116,madrid,persian,8
+1117,madrid,peruvian,99
+1118,madrid,pizza,344
+1119,madrid,polish,1
+1120,madrid,portuguese,17
+1121,madrid,pub,193
+1122,madrid,russian,16
+1123,madrid,salvadoran,3
+1124,madrid,scandinavian,2
+1125,madrid,seafood,257
+1126,madrid,soups,48
+1127,madrid,south american,183
+1128,madrid,spanish,4627
+1129,madrid,steakhouse,245
+1130,madrid,street food,38
+1131,madrid,sushi,250
+1132,madrid,swiss,2
+1133,madrid,taiwanese,6
+1134,madrid,thai,115
+1135,madrid,tibetan,2
+1136,madrid,turkish,26
+1137,madrid,ukrainian,4
+1138,madrid,vegan options,396
+1139,madrid,vegetarian friendly,2049
+1140,madrid,venezuelan,50
+1141,madrid,vietnamese,31
+1142,madrid,wine bar,86
+1143,milan,african,32
+1144,milan,american,192
+1145,milan,arabic,7
+1146,milan,argentinean,21
+1147,milan,asian,393
+1148,milan,australian,8
+1149,milan,austrian,8
+1150,milan,bar,560
+1151,milan,barbecue,235
+1152,milan,belgian,2
+1153,milan,brazilian,42
+1154,milan,brew pub,84
+1155,milan,british,10
+1156,milan,cafe,333
+1157,milan,caribbean,6
+1158,milan,central american,12
+1159,milan,central asian,1
+1160,milan,central european,2
+1161,milan,chinese,410
+1162,milan,colombian,2
+1163,milan,contemporary,88
+1164,milan,cuban,5
+1165,milan,delicatessen,67
+1166,milan,diner,4
+1167,milan,eastern european,3
+1168,milan,ecuadorean,4
+1169,milan,egyptian,11
+1170,milan,ethiopian,12
+1171,milan,european,837
+1172,milan,fast food,248
+1173,milan,filipino,7
+1174,milan,french,33
+1175,milan,fujian,1
+1176,milan,fusion,129
+1177,milan,gastropub,43
+1178,milan,german,15
+1179,milan,gluten free options,228
+1180,milan,greek,21
+1181,milan,grill,27
+1182,milan,halal,7
+1183,milan,healthy,60
+1184,milan,hungarian,1
+1185,milan,indian,81
+1186,milan,international,191
+1187,milan,irish,6
+1188,milan,israeli,4
+1189,milan,italian,4587
+1190,milan,japanese,624
+1191,milan,korean,32
+1192,milan,kosher,2
+1193,milan,latin,61
+1194,milan,lebanese,21
+1195,milan,malaysian,2
+1196,milan,mediterranean,2614
+1197,milan,mexican,55
+1198,milan,middle eastern,51
+1199,milan,minority chinese,5
+1200,milan,mongolian,3
+1201,milan,moroccan,13
+1202,milan,nepali,18
+1203,milan,norwegian,2
+1204,milan,pakistani,8
+1205,milan,persian,4
+1206,milan,peruvian,21
+1207,milan,pizza,1397
+1208,milan,pub,290
+1209,milan,russian,8
+1210,milan,scandinavian,2
+1211,milan,scottish,2
+1212,milan,seafood,1601
+1213,milan,singaporean,6
+1214,milan,soups,164
+1215,milan,south american,51
+1216,milan,southwestern,2
+1217,milan,spanish,43
+1218,milan,sri lankan,6
+1219,milan,steakhouse,127
+1220,milan,street food,48
+1221,milan,sushi,503
+1222,milan,swedish,4
+1223,milan,taiwanese,3
+1224,milan,thai,33
+1225,milan,tibetan,2
+1226,milan,turkish,30
+1227,milan,ukrainian,3
+1228,milan,uzbek,2
+1229,milan,vegan options,363
+1230,milan,vegetarian friendly,1977
+1231,milan,venezuelan,4
+1232,milan,vietnamese,12
+1233,milan,wine bar,151
+1234,munich,afghani,20
+1235,munich,african,16
+1236,munich,american,130
+1237,munich,arabic,3
+1238,munich,argentinean,4
+1239,munich,asian,418
+1240,munich,australian,2
+1241,munich,austrian,46
+1242,munich,balti,2
+1243,munich,bar,282
+1244,munich,barbecue,46
+1245,munich,brazilian,6
+1246,munich,brew pub,13
+1247,munich,british,2
+1248,munich,cafe,197
+1249,munich,cajun & creole,4
+1250,munich,caribbean,4
+1251,munich,central american,18
+1252,munich,central european,415
+1253,munich,chinese,135
+1254,munich,contemporary,33
+1255,munich,croatian,14
+1256,munich,delicatessen,41
+1257,munich,diner,43
+1258,munich,eastern european,8
+1259,munich,ethiopian,8
+1260,munich,european,1209
+1261,munich,fast food,105
+1262,munich,french,103
+1263,munich,fusion,40
+1264,munich,gastropub,48
+1265,munich,german,722
+1266,munich,gluten free options,32
+1267,munich,greek,153
+1268,munich,grill,63
+1269,munich,halal,24
+1270,munich,hawaiian,3
+1271,munich,healthy,56
+1272,munich,hungarian,2
+1273,munich,indian,122
+1274,munich,indonesian,2
+1275,munich,international,266
+1276,munich,irish,12
+1277,munich,israeli,5
+1278,munich,italian,728
+1279,munich,japanese,145
+1280,munich,korean,14
+1281,munich,latin,32
+1282,munich,lebanese,21
+1283,munich,malaysian,2
+1284,munich,mediterranean,738
+1285,munich,mexican,61
+1286,munich,middle eastern,108
+1287,munich,minority chinese,6
+1288,munich,mongolian,10
+1289,munich,moroccan,5
+1290,munich,nepali,4
+1291,munich,pakistani,6
+1292,munich,persian,10
+1293,munich,peruvian,6
+1294,munich,pizza,302
+1295,munich,polynesian,2
+1296,munich,portuguese,8
+1297,munich,pub,141
+1298,munich,romanian,2
+1299,munich,russian,2
+1300,munich,seafood,219
+1301,munich,soups,35
+1302,munich,south american,26
+1303,munich,southwestern,6
+1304,munich,spanish,69
+1305,munich,steakhouse,54
+1306,munich,street food,18
+1307,munich,sushi,154
+1308,munich,swiss,4
+1309,munich,thai,116
+1310,munich,tibetan,2
+1311,munich,tunisian,2
+1312,munich,turkish,59
+1313,munich,vegan options,238
+1314,munich,vegetarian friendly,1215
+1315,munich,venezuelan,2
+1316,munich,vietnamese,172
+1317,munich,wine bar,33
+1318,paris,afghani,10
+1319,paris,african,160
+1320,paris,albanian,2
+1321,paris,american,595
+1322,paris,arabic,16
+1323,paris,argentinean,62
+1324,paris,armenian,2
+1325,paris,asian,1725
+1326,paris,australian,14
+1327,paris,bangladeshi,6
+1328,paris,bar,1685
+1329,paris,barbecue,139
+1330,paris,belgian,39
+1331,paris,brazilian,52
+1332,paris,brew pub,147
+1333,paris,british,39
+1334,paris,cafe,959
+1335,paris,cajun & creole,38
+1336,paris,cambodian,33
+1337,paris,canadian,9
+1338,paris,caribbean,56
+1339,paris,central american,65
+1340,paris,central asian,5
+1341,paris,central european,16
+1342,paris,chilean,4
+1343,paris,chinese,728
+1344,paris,colombian,16
+1345,paris,contemporary,240
+1346,paris,croatian,2
+1347,paris,cuban,17
+1348,paris,danish,8
+1349,paris,delicatessen,192
+1350,paris,diner,71
+1351,paris,eastern european,36
+1352,paris,egyptian,4
+1353,paris,ethiopian,28
+1354,paris,european,6766
+1355,paris,fast food,431
+1356,paris,filipino,2
+1357,paris,french,9395
+1358,paris,fusion,274
+1359,paris,gastropub,382
+1360,paris,georgian,2
+1361,paris,german,9
+1362,paris,gluten free options,353
+1363,paris,greek,102
+1364,paris,grill,134
+1365,paris,halal,114
+1366,paris,hawaiian,5
+1367,paris,healthy,167
+1368,paris,indian,429
+1369,paris,indonesian,18
+1370,paris,international,261
+1371,paris,irish,34
+1372,paris,israeli,38
+1373,paris,italian,2236
+1374,paris,japanese,1106
+1375,paris,korean,191
+1376,paris,kosher,52
+1377,paris,latin,131
+1378,paris,lebanese,278
+1379,paris,malaysian,5
+1380,paris,mediterranean,1545
+1381,paris,mexican,142
+1382,paris,middle eastern,455
+1383,paris,minority chinese,1
+1384,paris,mongolian,2
+1385,paris,moroccan,235
+1386,paris,nepali,10
+1387,paris,norwegian,2
+1388,paris,pakistani,62
+1389,paris,persian,28
+1390,paris,peruvian,39
+1391,paris,pizza,962
+1392,paris,polish,11
+1393,paris,portuguese,53
+1394,paris,pub,736
+1395,paris,romanian,2
+1396,paris,russian,40
+1397,paris,scandinavian,16
+1398,paris,scottish,4
+1399,paris,seafood,307
+1400,paris,singaporean,3
+1401,paris,soups,189
+1402,paris,south american,135
+1403,paris,southwestern,2
+1404,paris,spanish,273
+1405,paris,sri lankan,8
+1406,paris,steakhouse,193
+1407,paris,street food,97
+1408,paris,sushi,552
+1409,paris,swedish,6
+1410,paris,swiss,8
+1411,paris,taiwanese,23
+1412,paris,thai,568
+1413,paris,tibetan,34
+1414,paris,tunisian,53
+1415,paris,turkish,104
+1416,paris,ukrainian,6
+1417,paris,uzbek,2
+1418,paris,vegan options,875
+1419,paris,vegetarian friendly,4810
+1420,paris,venezuelan,4
+1421,paris,vietnamese,532
+1422,paris,wine bar,527
+1423,paris,xinjiang,2
+1424,paris,yunnan,2
+1425,prague,afghani,2
+1426,prague,african,5
+1427,prague,american,284
+1428,prague,arabic,2
+1429,prague,argentinean,14
+1430,prague,armenian,4
+1431,prague,asian,453
+1432,prague,austrian,9
+1433,prague,bangladeshi,10
+1434,prague,bar,1147
+1435,prague,barbecue,81
+1436,prague,belgian,8
+1437,prague,brazilian,10
+1438,prague,brew pub,25
+1439,prague,british,16
+1440,prague,cafe,656
+1441,prague,canadian,3
+1442,prague,caribbean,7
+1443,prague,central american,22
+1444,prague,central asian,2
+1445,prague,central european,1118
+1446,prague,chinese,165
+1447,prague,contemporary,50
+1448,prague,croatian,4
+1449,prague,cuban,6
+1450,prague,czech,2529
+1451,prague,danish,2
+1452,prague,delicatessen,42
+1453,prague,diner,44
+1454,prague,eastern european,548
+1455,prague,european,3354
+1456,prague,fast food,425
+1457,prague,french,158
+1458,prague,fusion,50
+1459,prague,gastropub,64
+1460,prague,georgian,3
+1461,prague,german,7
+1462,prague,gluten free options,88
+1463,prague,greek,28
+1464,prague,grill,75
+1465,prague,halal,20
+1466,prague,healthy,63
+1467,prague,hungarian,1
+1468,prague,indian,129
+1469,prague,indonesian,7
+1470,prague,international,508
+1471,prague,irish,24
+1472,prague,israeli,10
+1473,prague,italian,700
+1474,prague,japanese,161
+1475,prague,korean,26
+1476,prague,kosher,4
+1477,prague,latin,44
+1478,prague,lebanese,17
+1479,prague,mediterranean,402
+1480,prague,mexican,99
+1481,prague,middle eastern,56
+1482,prague,minority chinese,2
+1483,prague,mongolian,2
+1484,prague,moroccan,2
+1485,prague,nepali,6
+1486,prague,pakistani,7
+1487,prague,pizza,409
+1488,prague,polish,2
+1489,prague,pub,740
+1490,prague,romanian,1
+1491,prague,russian,19
+1492,prague,scandinavian,2
+1493,prague,scottish,2
+1494,prague,seafood,106
+1495,prague,slovenian,2
+1496,prague,soups,71
+1497,prague,south american,16
+1498,prague,southwestern,4
+1499,prague,spanish,43
+1500,prague,sri lankan,2
+1501,prague,steakhouse,90
+1502,prague,street food,15
+1503,prague,sushi,147
+1504,prague,swedish,2
+1505,prague,swiss,2
+1506,prague,taiwanese,2
+1507,prague,thai,113
+1508,prague,tibetan,4
+1509,prague,turkish,49
+1510,prague,ukrainian,4
+1511,prague,uzbek,4
+1512,prague,vegan options,182
+1513,prague,vegetarian friendly,734
+1514,prague,venezuelan,2
+1515,prague,vietnamese,148
+1516,prague,wine bar,113
+1517,rome,afghani,2
+1518,rome,african,20
+1519,rome,american,183
+1520,rome,argentinean,8
+1521,rome,asian,222
+1522,rome,australian,2
+1523,rome,austrian,7
+1524,rome,balti,2
+1525,rome,bangladeshi,4
+1526,rome,bar,600
+1527,rome,barbecue,153
+1528,rome,belgian,4
+1529,rome,brazilian,20
+1530,rome,brew pub,176
+1531,rome,british,12
+1532,rome,cafe,338
+1533,rome,caribbean,4
+1534,rome,central american,8
+1535,rome,central european,7
+1536,rome,chinese,230
+1537,rome,colombian,4
+1538,rome,contemporary,83
+1539,rome,cuban,2
+1540,rome,danish,3
+1541,rome,delicatessen,190
+1542,rome,diner,5
+1543,rome,eastern european,2
+1544,rome,egyptian,2
+1545,rome,ethiopian,17
+1546,rome,european,1108
+1547,rome,fast food,460
+1548,rome,filipino,10
+1549,rome,french,29
+1550,rome,fusion,88
+1551,rome,gastropub,90
+1552,rome,german,21
+1553,rome,gluten free options,423
+1554,rome,greek,19
+1555,rome,grill,38
+1556,rome,halal,14
+1557,rome,hawaiian,2
+1558,rome,healthy,49
+1559,rome,indian,57
+1560,rome,indonesian,2
+1561,rome,international,243
+1562,rome,irish,23
+1563,rome,israeli,20
+1564,rome,italian,6486
+1565,rome,jamaican,2
+1566,rome,japanese,268
+1567,rome,korean,16
+1568,rome,kosher,12
+1569,rome,latin,35
+1570,rome,lebanese,16
+1571,rome,malaysian,4
+1572,rome,mediterranean,4284
+1573,rome,mexican,49
+1574,rome,middle eastern,49
+1575,rome,minority chinese,2
+1576,rome,moroccan,6
+1577,rome,native american,2
+1578,rome,nepali,2
+1579,rome,norwegian,2
+1580,rome,pakistani,2
+1581,rome,persian,7
+1582,rome,peruvian,23
+1583,rome,pizza,2394
+1584,rome,polish,2
+1585,rome,pub,393
+1586,rome,romanian,1
+1587,rome,scandinavian,2
+1588,rome,scottish,2
+1589,rome,seafood,1541
+1590,rome,soups,255
+1591,rome,south american,37
+1592,rome,southwestern,2
+1593,rome,spanish,22
+1594,rome,steakhouse,132
+1595,rome,street food,105
+1596,rome,sushi,204
+1597,rome,swedish,4
+1598,rome,swiss,2
+1599,rome,thai,30
+1600,rome,turkish,14
+1601,rome,ukrainian,1
+1602,rome,vegan options,708
+1603,rome,vegetarian friendly,3409
+1604,rome,venezuelan,4
+1605,rome,vietnamese,10
+1606,rome,wine bar,286
+1607,stockholm,afghani,2
+1608,stockholm,african,14
+1609,stockholm,albanian,2
+1610,stockholm,american,200
+1611,stockholm,arabic,2
+1612,stockholm,argentinean,4
+1613,stockholm,armenian,1
+1614,stockholm,asian,375
+1615,stockholm,australian,4
+1616,stockholm,austrian,4
+1617,stockholm,bangladeshi,4
+1618,stockholm,bar,401
+1619,stockholm,barbecue,100
+1620,stockholm,belgian,6
+1621,stockholm,brazilian,4
+1622,stockholm,brew pub,8
+1623,stockholm,british,30
+1624,stockholm,cafe,174
+1625,stockholm,cajun & creole,1
+1626,stockholm,caribbean,5
+1627,stockholm,caucasian,6
+1628,stockholm,central american,2
+1629,stockholm,central european,30
+1630,stockholm,chilean,2
+1631,stockholm,chinese,137
+1632,stockholm,colombian,2
+1633,stockholm,contemporary,34
+1634,stockholm,cuban,2
+1635,stockholm,czech,2
+1636,stockholm,danish,6
+1637,stockholm,delicatessen,16
+1638,stockholm,diner,12
+1639,stockholm,dutch,2
+1640,stockholm,eastern european,11
+1641,stockholm,ethiopian,8
+1642,stockholm,european,1404
+1643,stockholm,fast food,123
+1644,stockholm,french,110
+1645,stockholm,fusion,37
+1646,stockholm,gastropub,18
+1647,stockholm,georgian,2
+1648,stockholm,german,14
+1649,stockholm,gluten free options,128
+1650,stockholm,greek,49
+1651,stockholm,grill,23
+1652,stockholm,halal,10
+1653,stockholm,hawaiian,6
+1654,stockholm,healthy,26
+1655,stockholm,indian,140
+1656,stockholm,indonesian,2
+1657,stockholm,international,178
+1658,stockholm,irish,12
+1659,stockholm,israeli,2
+1660,stockholm,italian,328
+1661,stockholm,jamaican,3
+1662,stockholm,japanese,208
+1663,stockholm,korean,28
+1664,stockholm,latin,39
+1665,stockholm,lebanese,39
+1666,stockholm,malaysian,3
+1667,stockholm,mediterranean,253
+1668,stockholm,mexican,42
+1669,stockholm,middle eastern,93
+1670,stockholm,mongolian,8
+1671,stockholm,moroccan,2
+1672,stockholm,new zealand,4
+1673,stockholm,pakistani,14
+1674,stockholm,persian,17
+1675,stockholm,peruvian,12
+1676,stockholm,pizza,219
+1677,stockholm,polish,6
+1678,stockholm,pub,267
+1679,stockholm,russian,4
+1680,stockholm,scandinavian,518
+1681,stockholm,seafood,95
+1682,stockholm,soups,24
+1683,stockholm,south american,23
+1684,stockholm,southwestern,4
+1685,stockholm,spanish,93
+1686,stockholm,steakhouse,71
+1687,stockholm,street food,5
+1688,stockholm,sushi,232
+1689,stockholm,swedish,863
+1690,stockholm,swiss,2
+1691,stockholm,taiwanese,2
+1692,stockholm,thai,115
+1693,stockholm,turkish,35
+1694,stockholm,ukrainian,2
+1695,stockholm,vegan options,170
+1696,stockholm,vegetarian friendly,908
+1697,stockholm,vietnamese,32
+1698,stockholm,wine bar,25
+1699,vienna,afghani,2
+1700,vienna,african,6
+1701,vienna,american,130
+1702,vienna,arabic,6
+1703,vienna,argentinean,8
+1704,vienna,asian,488
+1705,vienna,australian,4
+1706,vienna,austrian,1640
+1707,vienna,balti,2
+1708,vienna,bar,391
+1709,vienna,barbecue,69
+1710,vienna,belgian,2
+1711,vienna,brazilian,1
+1712,vienna,brew pub,10
+1713,vienna,british,10
+1714,vienna,cafe,330
+1715,vienna,caribbean,4
+1716,vienna,central american,24
+1717,vienna,central european,903
+1718,vienna,chinese,231
+1719,vienna,contemporary,77
+1720,vienna,croatian,29
+1721,vienna,cuban,6
+1722,vienna,czech,10
+1723,vienna,danish,2
+1724,vienna,delicatessen,56
+1725,vienna,diner,50
+1726,vienna,eastern european,32
+1727,vienna,ecuadorean,2
+1728,vienna,egyptian,6
+1729,vienna,ethiopian,4
+1730,vienna,european,2192
+1731,vienna,fast food,112
+1732,vienna,filipino,2
+1733,vienna,french,56
+1734,vienna,fusion,90
+1735,vienna,gastropub,58
+1736,vienna,georgian,2
+1737,vienna,german,403
+1738,vienna,gluten free options,76
+1739,vienna,greek,79
+1740,vienna,grill,50
+1741,vienna,halal,20
+1742,vienna,healthy,52
+1743,vienna,hungarian,12
+1744,vienna,indian,94
+1745,vienna,indonesian,2
+1746,vienna,international,297
+1747,vienna,irish,20
+1748,vienna,israeli,33
+1749,vienna,italian,613
+1750,vienna,japanese,187
+1751,vienna,korean,28
+1752,vienna,kosher,5
+1753,vienna,latin,34
+1754,vienna,lebanese,31
+1755,vienna,malaysian,4
+1756,vienna,mediterranean,613
+1757,vienna,mexican,49
+1758,vienna,middle eastern,160
+1759,vienna,mongolian,2
+1760,vienna,moroccan,11
+1761,vienna,native american,2
+1762,vienna,nepali,2
+1763,vienna,pakistani,6
+1764,vienna,persian,17
+1765,vienna,peruvian,9
+1766,vienna,pizza,350
+1767,vienna,polish,8
+1768,vienna,portuguese,10
+1769,vienna,pub,160
+1770,vienna,romanian,2
+1771,vienna,russian,8
+1772,vienna,scottish,2
+1773,vienna,seafood,151
+1774,vienna,soups,63
+1775,vienna,south american,31
+1776,vienna,southwestern,6
+1777,vienna,spanish,55
+1778,vienna,sri lankan,10
+1779,vienna,steakhouse,66
+1780,vienna,street food,18
+1781,vienna,sushi,203
+1782,vienna,swedish,2
+1783,vienna,swiss,4
+1784,vienna,taiwanese,9
+1785,vienna,thai,52
+1786,vienna,tibetan,5
+1787,vienna,tunisian,2
+1788,vienna,turkish,75
+1789,vienna,ukrainian,2
+1790,vienna,vegan options,193
+1791,vienna,vegetarian friendly,1088
+1792,vienna,venezuelan,2
+1793,vienna,vietnamese,69
+1794,vienna,wine bar,153
+1795,warsaw,afghani,1
+1796,warsaw,african,2
+1797,warsaw,american,128
+1798,warsaw,arabic,12
+1799,warsaw,argentinean,8
+1800,warsaw,asian,305
+1801,warsaw,australian,1
+1802,warsaw,azerbaijani,2
+1803,warsaw,balti,2
+1804,warsaw,bar,260
+1805,warsaw,barbecue,32
+1806,warsaw,belgian,8
+1807,warsaw,brazilian,2
+1808,warsaw,brew pub,23
+1809,warsaw,british,12
+1810,warsaw,cafe,138
+1811,warsaw,caribbean,4
+1812,warsaw,central american,11
+1813,warsaw,central european,347
+1814,warsaw,chilean,2
+1815,warsaw,chinese,61
+1816,warsaw,contemporary,45
+1817,warsaw,croatian,6
+1818,warsaw,cuban,2
+1819,warsaw,czech,10
+1820,warsaw,delicatessen,6
+1821,warsaw,diner,9
+1822,warsaw,dutch,2
+1823,warsaw,eastern european,239
+1824,warsaw,egyptian,3
+1825,warsaw,european,1211
+1826,warsaw,fast food,89
+1827,warsaw,french,58
+1828,warsaw,fusion,87
+1829,warsaw,gastropub,16
+1830,warsaw,georgian,9
+1831,warsaw,german,10
+1832,warsaw,gluten free options,33
+1833,warsaw,greek,15
+1834,warsaw,grill,46
+1835,warsaw,halal,10
+1836,warsaw,hawaiian,2
+1837,warsaw,healthy,76
+1838,warsaw,hungarian,2
+1839,warsaw,indian,94
+1840,warsaw,indonesian,8
+1841,warsaw,international,243
+1842,warsaw,irish,4
+1843,warsaw,israeli,27
+1844,warsaw,italian,426
+1845,warsaw,japanese,166
+1846,warsaw,korean,23
+1847,warsaw,kosher,2
+1848,warsaw,latin,24
+1849,warsaw,lebanese,39
+1850,warsaw,malaysian,2
+1851,warsaw,mediterranean,333
+1852,warsaw,mexican,49
+1853,warsaw,middle eastern,72
+1854,warsaw,moroccan,4
+1855,warsaw,nepali,15
+1856,warsaw,pakistani,2
+1857,warsaw,persian,1
+1858,warsaw,peruvian,2
+1859,warsaw,pizza,176
+1860,warsaw,polish,789
+1861,warsaw,portuguese,2
+1862,warsaw,pub,173
+1863,warsaw,russian,8
+1864,warsaw,scandinavian,2
+1865,warsaw,seafood,34
+1866,warsaw,soups,67
+1867,warsaw,south american,3
+1868,warsaw,spanish,50
+1869,warsaw,steakhouse,59
+1870,warsaw,street food,4
+1871,warsaw,sushi,171
+1872,warsaw,thai,98
+1873,warsaw,tibetan,2
+1874,warsaw,tunisian,1
+1875,warsaw,turkish,37
+1876,warsaw,ukrainian,11
+1877,warsaw,vegan options,120
+1878,warsaw,vegetarian friendly,552
+1879,warsaw,venezuelan,2
+1880,warsaw,vietnamese,42
+1881,warsaw,wine bar,61
